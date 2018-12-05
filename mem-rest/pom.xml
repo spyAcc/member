@@ -21,10 +21,6 @@
 		</dependency>
 		<dependency>
 			<groupId>com.index</groupId>
-			<artifactId>mem-cache</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.index</groupId>
 			<artifactId>mem-core</artifactId>
 		</dependency>
 		<dependency>

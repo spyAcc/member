@@ -89,6 +89,7 @@
 		<module>mem-cache</module>
 		<module>mem-tool</module>
 		<module>mem-client</module>
+		<module>mem-console</module>
 	</modules>
 
 	<build>

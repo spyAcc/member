@@ -13,7 +13,7 @@ mem:
     work-id: 1
     cache: false #控制是否开启redis缓存
   cache:
-    enable: true
+    enable: true #控制是否加载redis
 
 mybatis:
   mapper-locations: classpath*:com/index/mapper/*.xml
