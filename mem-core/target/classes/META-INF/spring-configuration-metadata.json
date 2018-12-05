@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "mem.core",
+      "type": "com.index.core.config.CoreSettings",
+      "sourceType": "com.index.core.config.CoreSettings"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mem.core.group-id",
+      "type": "java.lang.Long",
+      "sourceType": "com.index.core.config.CoreSettings",
+      "defaultValue": 1
+    },
+    {
+      "name": "mem.core.work-id",
+      "type": "java.lang.Long",
+      "sourceType": "com.index.core.config.CoreSettings",
+      "defaultValue": 1
+    }
+  ],
+  "hints": []
+}
